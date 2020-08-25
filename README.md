@@ -50,4 +50,20 @@ Towards Achieving Health Literacy and Customer Satisfaction</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(21).pdf" style="text-decoration:none;">Customers Behavior Modeling by Semi-Supervised Learning in Customer Relationship Management</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(22).pdf" style="text-decoration:none;">Open Source CRM Systems for SMEs </a></li> 
  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(23).pdf" style="text-decoration:none;">CRM Software Implemen Software & Patient Perspectives</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(24).pdf" style="text-decoration:none;">CRM Software, Activities & Profitability</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(25).pdf" style="text-decoration:none;">CRM software applications and business performance</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(26).pdf" style="text-decoration:none;">Integrating CRM Software Applications </a></li> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  </ul>
