@@ -86,10 +86,18 @@ Towards Achieving Health Literacy and Customer Satisfaction</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(40).pdf" style="text-decoration:none;">Extracting CRM Requirements - Waterfall or Agile: A Comparative Study </a></li> 
  
  
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(41).pdf" style="text-decoration:none;">Mind the Gap: Exploring the Links between the Expectations of Relationship Marketing and the Reality of Electronic-CRM</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(42).pdf" style="text-decoration:none;">MULTITENANT EFFECTIVE CRM APPLICATION USING SALESFORCE</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(43).pdf" style="text-decoration:none;">OPERATIONAL CRM AND AND ITS APPLICATION</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(44).pdf" style="text-decoration:none;">Role of Information Technology and ECRM in 21 st Century Retail Organisations</a></li> 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(45).pdf" style="text-decoration:none;">Social CRM: Software Solution Based on Real-Time Semantic Analysis of Customer Behavior through Social Media </a></li> 
  
  
- 
- 
+  <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(46).pdf" style="text-decoration:none;">A Proficient CRM-Machine Learning Framework for The Prediction of Customer Behaviour </a></li> 
  
  
  
