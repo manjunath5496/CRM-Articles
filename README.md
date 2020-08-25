@@ -58,6 +58,15 @@ Towards Achieving Health Literacy and Customer Satisfaction</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(25).pdf" style="text-decoration:none;">CRM software applications and business performance</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(26).pdf" style="text-decoration:none;">Integrating CRM Software Applications </a></li> 
  
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(27).pdf" style="text-decoration:none;">The impact of loyalty with e-CRM software and e-services</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(28).pdf" style="text-decoration:none;">Open Source CRM Software Selection using the Analytic Hierarchy Process</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(29).pdf" style="text-decoration:none;">Developing Web Based Decision Support System for Customer Relationship Management (CRM) Software Selection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(30).pdf" style="text-decoration:none;">CRM software in australia </a></li> 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(31).pdf" style="text-decoration:none;">Compare and Contrast Cloud based CRM software </a></li> 
+ 
  
  
  
