@@ -69,6 +69,25 @@ Towards Achieving Health Literacy and Customer Satisfaction</a></li>
  
  
  
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(32).pdf" style="text-decoration:none;">Importance of health CRM in pandemics and health alerts</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(33).pdf" style="text-decoration:none;">A COLLABORATIVE PERSPECTIVE OF CRM</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(34).pdf" style="text-decoration:none;">An Economic Feasibility Study of Implementing e-CRM System: A Study of Selected Retail Outlets of Delhi/National Capital Region, India</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(35).pdf" style="text-decoration:none;">Application of neural networks in CRM systems </a></li> 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(36).pdf" style="text-decoration:none;">CRM ADOPTION IN A HIGHER EDUCATION INSTITUTION</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(37).pdf" style="text-decoration:none;">CRM Systems As A Tool For Improving Business Efficiency</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(38).pdf" style="text-decoration:none;">CRM is more than just a digital technology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(39).pdf" style="text-decoration:none;">Extracting Customer Traces from CRMS: From Software to Process Models</a></li> 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/CRM-Articles/blob/master/2crm(40).pdf" style="text-decoration:none;">Extracting CRM Requirements - Waterfall or Agile: A Comparative Study </a></li> 
+ 
+ 
+ 
+ 
  
  
  
